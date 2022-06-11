@@ -1,3 +1,1 @@
-# whoami
-
-A description of this package.
+# whoami - get username
